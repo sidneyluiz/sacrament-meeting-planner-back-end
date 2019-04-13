@@ -1,0 +1,59 @@
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.deps.json
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.json
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.dev.json
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csprojAssemblyReference.cache
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cache
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cs
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfoInputs.cache
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfo.cs
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
+C:\AulasParticulares\SacramentMeetingPlanner\project\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\api-docs.xml
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csprojAssemblyReference.cache
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cache
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cs
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfoInputs.cache
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfo.cs
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.deps.json
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.json
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.dev.json
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\api-docs.xml
+D:\Gabriel Vicente\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.deps.json
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.json
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.dev.json
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\api-docs.xml
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csprojAssemblyReference.cache
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cache
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cs
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfoInputs.cache
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfo.cs
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
+C:\Users\GV\Desktop\sidn\sacrament-meeting-planner-back-end\sacrament-meeting-planner-back-end\sacrament-meeting-planner\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.deps.json
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.json
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.dev.json
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\bin\Debug\netcoreapp2.2\api-docs.xml
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cache
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cs
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfoInputs.cache
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfo.cs
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
+C:\Users\hardp\Documents\GitHub\sacrament-meeting-planner-back-end\sacrament-meeting-planner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
